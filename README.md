@@ -10,6 +10,7 @@
 * [Выразительный JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/) Marijn Haverbeke, 2rd edition, RUS
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) 2018, ENG
 * [You Don't Know JS](https://github.com/azat-io/you-dont-know-js-ru) 2015, RUS
+* [JavaScript: сильные стороны](https://orkhanalyshov.com/media/JavaScript/books/TheGoodParts.pdf), 2012, RUS
 
 ## Ссылки
 
