@@ -28,6 +28,7 @@
 ## Книги
 
 * [Новая большая книга CSS](https://orkhanalyshov.com/media/HTMLCSS/DavidSawyerMcFarlandCSStheMissingManual.pdf) Макфарланд Д., 2016, RUS
+* [CSS для профи](https://vk.com/doc382132060_497997477?hash=ebd2a27862fb6f7a0c&dl=ac834b2017ef9f8fa9) Кит Грант, 2019, RUS
 
 # Разное
 
