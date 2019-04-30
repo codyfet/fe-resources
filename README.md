@@ -23,12 +23,20 @@
 
 * [React и Redux. Функциональная веб-разработка](https://vk.com/doc112601340_459055741?hash=09ff8dbdfb87e57f7c&dl=19f5a59504b66e5074) А.Бэнкс, Е. Порселло, 2018, RUS
 
+## Ссылки
+[react-howto](https://github.com/petehunt/react-howto/blob/master/README-ru.md)
+
 # CSS
 
 ## Книги
 
 * [Новая большая книга CSS](https://orkhanalyshov.com/media/HTMLCSS/DavidSawyerMcFarlandCSStheMissingManual.pdf) Макфарланд Д., 2016, RUS
 * [CSS для профи](https://vk.com/doc382132060_497997477?hash=ebd2a27862fb6f7a0c&dl=ac834b2017ef9f8fa9) Кит Грант, 2019, RUS
+
+# Webpack
+
+# Ссылки
+* [https://github.com/petehunt/webpack-howto](https://github.com/petehunt/webpack-howto)
 
 # Разное
 
