@@ -24,7 +24,7 @@
 * [React и Redux. Функциональная веб-разработка](https://vk.com/doc112601340_459055741?hash=09ff8dbdfb87e57f7c&dl=19f5a59504b66e5074) А.Бэнкс, Е. Порселло, 2018, RUS
 
 ## Ссылки
-[react-howto](https://github.com/petehunt/react-howto/blob/master/README-ru.md)
+* [react-howto](https://github.com/petehunt/react-howto/blob/master/README-ru.md)
 
 # CSS
 
@@ -35,7 +35,7 @@
 
 # Webpack
 
-# Ссылки
+## Ссылки
 * [https://github.com/petehunt/webpack-howto](https://github.com/petehunt/webpack-howto)
 
 # Разное
