@@ -1,6 +1,6 @@
 # JavaScript
 
-## Книги
+## :book: Книги
 
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Addy Osmani, 2017, ENG
 * [Eloquent JavaScript](http://eloquentjavascript.net/) Marijn Haverbeke, 3rd edition, ENG
@@ -21,7 +21,7 @@
 
 # REACT, REDUX
 
-## Книги
+## :book: Книги
 
 * [React и Redux. Функциональная веб-разработка](https://vk.com/doc112601340_459055741?hash=09ff8dbdfb87e57f7c&dl=19f5a59504b66e5074) А.Бэнкс, Е. Порселло, 2018, RUS
 
@@ -30,7 +30,7 @@
 
 # CSS
 
-## Книги
+## :book: Книги
 
 * [Новая большая книга CSS](https://orkhanalyshov.com/media/HTMLCSS/DavidSawyerMcFarlandCSStheMissingManual.pdf) Макфарланд Д., 2016, RUS
 * [CSS для профи](https://vk.com/doc382132060_497997477?hash=ebd2a27862fb6f7a0c&dl=ac834b2017ef9f8fa9) Кит Грант, 2019, RUS
