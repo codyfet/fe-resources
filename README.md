@@ -11,7 +11,7 @@
 * [JavaScript: сильные стороны](https://orkhanalyshov.com/media/JavaScript/books/TheGoodParts.pdf), 2012, RUS
 * [Изучаем программирование на JavaScript](https://vk.com/doc247540843_451332840?hash=dc2d1c75ea81e0dd88&dl=ab3b056f818825c5e3) Э.Фримен, Э. Робсон, 2015, RUS
 
-## Ссылки
+## :link: Ссылки
 
 * [The Modern JavaScript Tutorial](http://javascript.info/) - Учебник Ильи Кантора, 2019, ENG 
 * [Современный учебник JavaScript](https://learn.javascript.ru/) - Учебник Ильи Кантора, 2019, RUS 
@@ -25,7 +25,7 @@
 
 * [React и Redux. Функциональная веб-разработка](https://vk.com/doc112601340_459055741?hash=09ff8dbdfb87e57f7c&dl=19f5a59504b66e5074) А.Бэнкс, Е. Порселло, 2018, RUS
 
-## Ссылки
+## :link: Ссылки
 * [react-howto](https://github.com/petehunt/react-howto/blob/master/README-ru.md)
 
 # CSS
@@ -37,7 +37,7 @@
 
 # Webpack
 
-## Ссылки
+## :link: Ссылки
 * [https://github.com/petehunt/webpack-howto](https://github.com/petehunt/webpack-howto)
 
 # Разное
