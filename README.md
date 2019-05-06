@@ -16,6 +16,7 @@
 * [The Modern JavaScript Tutorial](http://javascript.info/) - Учебник Ильи Кантора, 2019, ENG 
 * [Современный учебник JavaScript](https://learn.javascript.ru/) - Учебник Ильи Кантора, 2019, RUS 
 * [JavaScript-Garden](https://bonsaiden.github.io/JavaScript-Garden/ru/) - Руководство JavaScript
+* [Курс современного JavaScript](https://bxnotes.ru/conspect/kurs-sovremennogo-javascript/) - Конспект от bxnotes, 2018, RUS
 * [Видеокурс Основы JavaScript от Sorax](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem) - Видеокурс на YouTube, 2014, RUS
 
 # REACT, REDUX
