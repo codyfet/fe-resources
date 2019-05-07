@@ -18,6 +18,8 @@
 * [JavaScript-Garden](https://bonsaiden.github.io/JavaScript-Garden/ru/) - Руководство JavaScript
 * [Курс современного JavaScript](https://bxnotes.ru/conspect/kurs-sovremennogo-javascript/) - Конспект от bxnotes, 2018, RUS
 * [Видеокурс Основы JavaScript от Sorax](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem) - Видеокурс на YouTube, 2014, RUS
+* [33 Концепта, которые каждый JavaScript разработчик должен знать 
+](https://github.com/gumennii/33-js-concepts)
 
 # REACT, REDUX
 
