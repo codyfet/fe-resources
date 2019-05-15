@@ -40,6 +40,7 @@
 # Webpack
 
 ## :link: Ссылки
+* [Воркшоп на YouTube от Ивана Акулова](https://www.youtube.com/playlist?list=PLTbz5Wv5vNcs0zKKmF0DSo6m05RnMqUXk) 2018, RUS
 * [https://github.com/petehunt/webpack-howto](https://github.com/petehunt/webpack-howto)
 
 # Разное
