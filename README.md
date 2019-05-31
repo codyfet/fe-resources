@@ -46,6 +46,7 @@
 # Разное
 
 * [front-end-handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#1)
+* [Web Developer Roadmap 2019](https://github.com/kamranahmedse/developer-roadmap)
 * [Чистая архитектура](https://vk.com/doc44301783_469642449?hash=5d281ab26c9f4947d5&dl=20b940f81ae4b21140) Р. Мартин, 2018, RUS
 * [Грокаем алгоритмы](https://vk.com/doc2036633_461668315?hash=3bbe2d53fdb5bac884&dl=71b079d5bac8067813) Бхаргава А, 2017, RUS
 * [Не заставляйте меня думать](https://vk.com/doc497141998_473199360) C.Круг, 3-е издание, 2017, RUS
