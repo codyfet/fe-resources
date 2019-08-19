@@ -43,6 +43,11 @@
 * [Воркшоп на YouTube от Ивана Акулова](https://www.youtube.com/playlist?list=PLTbz5Wv5vNcs0zKKmF0DSo6m05RnMqUXk) 2018, RUS
 * [https://github.com/petehunt/webpack-howto](https://github.com/petehunt/webpack-howto)
 
+# Устройство веб-браузера
+
+## :link: Ссылки
+* [Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/) RUS
+
 # Разное
 
 * [front-end-handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#1)
