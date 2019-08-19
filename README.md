@@ -47,6 +47,15 @@
 
 ## :link: Ссылки
 * [Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/) RUS
+* [Важные аспекты работы браузера для разработчиков. Часть 1](https://habr.com/ru/company/dataart/blog/304138/) RUS
+* [Важные аспекты работы браузера для разработчиков. Часть 2](https://habr.com/ru/company/dataart/blog/304934/) RUS
+
+# Интерактив и игры
+
+* [CSS Diner](http://flukeout.github.io/)
+* [Изучение CSS Разметки](http://ru.learnlayout.com/) - Интерактивный учебник ключевых моментах CSS, зачастую вызывающих трудности - RUS
+* [CSS Battle](https://cssbattle.dev/)
+* [Elevator Saga Game](https://play.elevatorsaga.com/)
 
 # Разное
 
