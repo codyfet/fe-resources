@@ -8,7 +8,8 @@
 * [Секреты JavaScript ниндзя](http://www.habucenter.ru/upload/iblock/76a/76a7f6a0d1fda54f72505775f5b9d864.pdf) Бэар Биболт, Джон Резиг, 2015, RUS
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) 2018, ENG
 * [You Don't Know JS](https://github.com/azat-io/you-dont-know-js-ru) 2015, RUS
-* [JavaScript: сильные стороны](https://orkhanalyshov.com/media/JavaScript/books/TheGoodParts.pdf), 2012, RUS
+* [JavaScript Enlightenment](https://vk.com/doc205367072_265124297) 2012, ENG
+* [JavaScript: сильные стороны](https://vk.com/doc10903696_272054170?hash=25ef73bb275dc4cb0e&dl=ac20f5e465672106d1), 2012, RUS
 * [Изучаем программирование на JavaScript](https://vk.com/doc247540843_451332840?hash=dc2d1c75ea81e0dd88&dl=ab3b056f818825c5e3) Э.Фримен, Э. Робсон, 2015, RUS
 
 ## :link: Ссылки
@@ -36,6 +37,7 @@
 
 * [Новая большая книга CSS](https://orkhanalyshov.com/media/HTMLCSS/DavidSawyerMcFarlandCSStheMissingManual.pdf) Макфарланд Д., 2016, RUS
 * [CSS для профи](https://vk.com/doc382132060_497997477?hash=ebd2a27862fb6f7a0c&dl=ac834b2017ef9f8fa9) Кит Грант, 2019, RUS
+* [Секреты CSS](https://vk.com/doc11339918_445281793) Леа Веру, 2016, RUS
 
 # Webpack
 
@@ -56,6 +58,10 @@
 * [Изучение CSS Разметки](http://ru.learnlayout.com/) - Интерактивный учебник ключевых моментах CSS, зачастую вызывающих трудности - RUS
 * [CSS Battle](https://cssbattle.dev/)
 * [Elevator Saga Game](https://play.elevatorsaga.com/)
+
+# Подготовка к собеседованию
+
+* [Cracking the coding interview](https://vk.com/doc123534285_438034972?hash=0447ced823c8248400&dl=e563ce609a0f9685c8) - 2013, McDowell, ENG
 
 # Разное
 
