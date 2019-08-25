@@ -30,7 +30,9 @@
 * [React и Redux. Функциональная веб-разработка](https://vk.com/doc112601340_459055741?hash=09ff8dbdfb87e57f7c&dl=19f5a59504b66e5074) А.Бэнкс, Е. Порселло, 2018, RUS
 
 ## :link: Ссылки
+
 * [react-howto](https://github.com/petehunt/react-howto/blob/master/README-ru.md)
+* [Redux: шаг за шагом](https://medium.com/devschacht/redux-step-by-step-e6c42a9b00cd) - Перевод статьи с пошаговым примером написания простого приложения на Redux (взаимодействие с Reddit API, redux-thunk) - 2017
 
 # CSS
 
@@ -43,26 +45,36 @@
 # Webpack
 
 ## :link: Ссылки
+
 * [Воркшоп на YouTube от Ивана Акулова](https://www.youtube.com/playlist?list=PLTbz5Wv5vNcs0zKKmF0DSo6m05RnMqUXk) 2018, RUS
 * [https://github.com/petehunt/webpack-howto](https://github.com/petehunt/webpack-howto)
 
 # Устройство веб-браузера
 
 ## :link: Ссылки
+
 * [Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/) RUS
 * [Важные аспекты работы браузера для разработчиков. Часть 1](https://habr.com/ru/company/dataart/blog/304138/) RUS
 * [Важные аспекты работы браузера для разработчиков. Часть 2](https://habr.com/ru/company/dataart/blog/304934/) RUS
+* [V8 под капотом](https://habr.com/ru/company/jugru/blog/338930/) RUS
 
 # Интерактив и игры
 
-* [CSS Diner](http://flukeout.github.io/)
+* [CSS Diner](http://flukeout.github.io/) - Освоение CSS в игровой форме
 * [Изучение CSS Разметки](http://ru.learnlayout.com/) - Интерактивный учебник ключевых моментах CSS, зачастую вызывающих трудности - RUS
-* [CSS Battle](https://cssbattle.dev/)
-* [Elevator Saga Game](https://play.elevatorsaga.com/)
+* [CSS Battle](https://cssbattle.dev/) - Еженедельные CSS челленджи
+* [Elevator Saga Game](https://play.elevatorsaga.com/) - Программирование лифтов (игра для js-разработчиков) 
+* [How-To-Npm](https://www.npmjs.com/package/how-to-npm) - Пошаговый туториал по работе с npm
 
 # Подготовка к собеседованию
 
+## :book: Книги
+
 * [Cracking the coding interview](https://vk.com/doc123534285_438034972?hash=0447ced823c8248400&dl=e563ce609a0f9685c8) - 2013, McDowell, ENG
+
+## :link: Ссылки
+* [Как пройти собеседование по JS? Часть 1](https://www.youtube.com/watch?v=ncaWoyLINoI&t=1794s) - Видеозапись с выступления Юрия Федоренко, 2017, RUS
+*  пройти собеседование по JS? Часть 2](https://www.youtube.com/watch?v=HsXKiKNdeTI) - Видеозапись с выступления Юрия Федоренко, 2019, RUS
 
 # Разное
 
@@ -72,3 +84,4 @@
 * [Грокаем алгоритмы](https://vk.com/doc2036633_461668315?hash=3bbe2d53fdb5bac884&dl=71b079d5bac8067813) Бхаргава А, 2017, RUS
 * [Не заставляйте меня думать](https://vk.com/doc497141998_473199360) C.Круг, 3-е издание, 2017, RUS
 * [Универсальные методы дизайна](https://kpp68.ru/wp-content/uploads/bsk-pdf-manager/2015-07-31_6.pdf) Мартин, Ханингтон, 2014, RUS
+* [Введение в Immutable.js и основные концепции функционального программирования](https://medium.com/devschacht/sebasti%C3%A1n-peyrott-introduction-to-immutablejs-and-functional-programming-concepts-b3a6555af0ee) -перевод статьи, 2018, RUS
