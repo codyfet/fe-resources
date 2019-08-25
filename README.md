@@ -1,6 +1,6 @@
 # JavaScript
 
-## :book: Книги
+### :book: Книги
 
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Addy Osmani, 2017, ENG
 * [Eloquent JavaScript](http://eloquentjavascript.net/) Marijn Haverbeke, 3rd edition, ENG
@@ -12,7 +12,7 @@
 * [JavaScript: сильные стороны](https://vk.com/doc10903696_272054170?hash=25ef73bb275dc4cb0e&dl=ac20f5e465672106d1), 2012, RUS
 * [Изучаем программирование на JavaScript](https://vk.com/doc247540843_451332840?hash=dc2d1c75ea81e0dd88&dl=ab3b056f818825c5e3) Э.Фримен, Э. Робсон, 2015, RUS
 
-## :link: Ссылки
+### :link: Ссылки
 
 * [The Modern JavaScript Tutorial](http://javascript.info/) - Учебник Ильи Кантора, 2019, ENG 
 * [Современный учебник JavaScript](https://learn.javascript.ru/) - Учебник Ильи Кантора, 2019, RUS 
@@ -25,18 +25,18 @@
 
 # REACT, REDUX
 
-## :book: Книги
+### :book: Книги
 
 * [React и Redux. Функциональная веб-разработка](https://vk.com/doc112601340_459055741?hash=09ff8dbdfb87e57f7c&dl=19f5a59504b66e5074) А.Бэнкс, Е. Порселло, 2018, RUS
 
-## :link: Ссылки
+### :link: Ссылки
 
 * [react-howto](https://github.com/petehunt/react-howto/blob/master/README-ru.md)
 * [Redux: шаг за шагом](https://medium.com/devschacht/redux-step-by-step-e6c42a9b00cd) - Перевод статьи с пошаговым примером написания простого приложения на Redux (взаимодействие с Reddit API, redux-thunk) - 2017
 
 # CSS
 
-## :book: Книги
+### :book: Книги
 
 * [Новая большая книга CSS](https://orkhanalyshov.com/media/HTMLCSS/DavidSawyerMcFarlandCSStheMissingManual.pdf) Макфарланд Д., 2016, RUS
 * [CSS для профи](https://vk.com/doc382132060_497997477?hash=ebd2a27862fb6f7a0c&dl=ac834b2017ef9f8fa9) Кит Грант, 2019, RUS
@@ -44,14 +44,14 @@
 
 # Webpack
 
-## :link: Ссылки
+### :link: Ссылки
 
 * [Воркшоп на YouTube от Ивана Акулова](https://www.youtube.com/playlist?list=PLTbz5Wv5vNcs0zKKmF0DSo6m05RnMqUXk) 2018, RUS
 * [https://github.com/petehunt/webpack-howto](https://github.com/petehunt/webpack-howto)
 
 # Устройство веб-браузера
 
-## :link: Ссылки
+### :link: Ссылки
 
 * [Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/) RUS
 * [Важные аспекты работы браузера для разработчиков. Часть 1](https://habr.com/ru/company/dataart/blog/304138/) RUS
@@ -68,11 +68,11 @@
 
 # Подготовка к собеседованию
 
-## :book: Книги
+### :book: Книги
 
 * [Cracking the coding interview](https://vk.com/doc123534285_438034972?hash=0447ced823c8248400&dl=e563ce609a0f9685c8) - 2013, McDowell, ENG
 
-## :link: Ссылки
+### :link: Ссылки
 * [Как пройти собеседование по JS? Часть 1](https://www.youtube.com/watch?v=ncaWoyLINoI&t=1794s) - Видеозапись с выступления Юрия Федоренко, 2017, RUS
 *  пройти собеседование по JS? Часть 2](https://www.youtube.com/watch?v=HsXKiKNdeTI) - Видеозапись с выступления Юрия Федоренко, 2019, RUS
 
