@@ -64,12 +64,20 @@
 * [Важные аспекты работы браузера для разработчиков. Часть 2](https://habr.com/ru/company/dataart/blog/304934/) RUS
 * [V8 под капотом](https://habr.com/ru/company/jugru/blog/338930/) RUS
 
+# DOM API
+
+### :link: Ссылки
+
+* [Не паси задних: используй DOM как профессионал](https://proglib.io/p/ne-pasi-zadnih-ispolzuy-dom-kak-professional-2019-09-11) 2019, RUS, статья
+
 # Интерактив и игры
 
 * [CSS Diner](http://flukeout.github.io/) - Освоение CSS в игровой форме
 * [Изучение CSS Разметки](http://ru.learnlayout.com/) - Интерактивный учебник ключевых моментах CSS, зачастую вызывающих трудности - RUS
 * [CSS Battle](https://cssbattle.dev/) - Еженедельные CSS челленджи
 * [Elevator Saga Game](https://play.elevatorsaga.com/) - Программирование лифтов (игра для js-разработчиков) 
+* [30-дневный Vanilla JS Challenge](https://github.com/wesbos/JavaScript30) - ENG
+* [FreeCodeCamp](https://www.freecodecamp.org/) - Бесплатный задачник по программированию на JS (1400 челленджей, 30 проектов) - ENG
 * [How-To-Npm](https://www.npmjs.com/package/how-to-npm) - Пошаговый туториал по работе с npm
 
 # Подготовка к собеседованию
