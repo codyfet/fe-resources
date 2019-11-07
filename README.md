@@ -85,6 +85,7 @@
 ### :book: Книги
 
 * [Cracking the coding interview](https://vk.com/doc123534285_438034972?hash=0447ced823c8248400&dl=e563ce609a0f9685c8) - 2013, McDowell, ENG
+* [Карьера программиста. Как устроиться на работу в гугл, майкрософт или другую ведущую IT-компанию](https://vk.com/doc4262442_319931677?hash=e1bd6c6db10c2fe1eb&dl=87dcc92bd1a3712a5e) - 2012, Макдауэлл, RUS
 
 ### :link: Ссылки
 * [Как пройти собеседование по JS? Часть 1](https://www.youtube.com/watch?v=ncaWoyLINoI&t=1794s) - Видеозапись с выступления Юрия Федоренко, 2017, RUS
