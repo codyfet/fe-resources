@@ -11,6 +11,7 @@
 * [JavaScript Enlightenment](https://vk.com/doc205367072_265124297) 2012, ENG
 * [JavaScript: сильные стороны](https://vk.com/doc10903696_272054170?hash=25ef73bb275dc4cb0e&dl=ac20f5e465672106d1), 2012, RUS
 * [Изучаем программирование на JavaScript](https://vk.com/doc247540843_451332840?hash=dc2d1c75ea81e0dd88&dl=ab3b056f818825c5e3) Э.Фримен, Э. Робсон, 2015, RUS
+* [Кау устроен JavaScript](https://vk.com/doc44301783_506046020) Дуглас Крокфорд, 2019, RUS
 
 ### :link: Ссылки
 
